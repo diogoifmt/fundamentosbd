@@ -5,3 +5,4 @@ Integrantes:
 fulano@email.com
 beltrano@email.com
 ciclano@email.com
+diogo.matos@ifmt.edu.br
